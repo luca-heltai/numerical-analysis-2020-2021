@@ -1,5 +1,4 @@
- [![Creative Commons License](http://mirrors.creativecommons.org/presskit/logos/cc.logo.png)](http://creativecommons.org/
-    licenses/by-nc-nd/4.0/)
+ [![Creative Commons License](http://mirrors.creativecommons.org/presskit/logos/cc.logo.png)](http://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 # Applied Mathematics: an Introduction to Scientific Computing
 
@@ -26,7 +25,7 @@ https://sissa-it.zoom.us/j/85796873697?pwd=cm5HNGRidndvU05UTVAvRkdOdnNrdz09
 Meeting ID: 857 9687 3697
 Passcode: NumAna
 
-You will find a recording of all lectures in this (YouTube playlist)[https://www.youtube.com/playlist?list=PLArvQL9bsv1y6BhTNOthBj1hGijN3vuCh].
+You will find a recording of all lectures in this [YouTube playlist](https://www.youtube.com/playlist?list=PLArvQL9bsv1y6BhTNOthBj1hGijN3vuCh).
 
 If you want to get up-to-date information about the course, please subscribe to the group:
 
@@ -35,7 +34,7 @@ https://groups.google.com/g/numerical-analysis-2020-2021
 (sending an email to numerical-analysis-2020-2021+subscribe@googlegroups.com is sufficient)
 
 
-If you are following the course, please (FILL THIS FORM)[https://forms.gle/8DyESWnfCmXMei3h8].
+If you are following the course, please [FILL THIS FORM](https://forms.gle/8DyESWnfCmXMei3h8).
 
 
 ## Syllabus 2020-2021
